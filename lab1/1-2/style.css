@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.square {
+    list-style-type: square;
+}
